@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Gerin!
 
+<p align="center">
 <img src="https://github.com/gerinsp/stats/blob/main/giphy.gif" />
+</p>
 
 I am someone who is interested in web programming, and likes to learn new technologies. I'm currently studying programming and also looking for a job, as a web developer
 <!--
