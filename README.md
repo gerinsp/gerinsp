@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ### My Stats:
 <p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gerinsp&show_icons=true&theme=tokyonight&repo=stats" />
+  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=gerinsp&show_icons=true&theme=tokyonight&repo=stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerinsp&layout=compact&theme=tokyonight" />
 </p>
