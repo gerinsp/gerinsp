@@ -4,7 +4,7 @@
 <img src="https://github.com/gerinsp/stats/blob/main/giphy.gif" />
 </p>
 
-I am a web developer, I have an interest in the world of programming, and now I work for a software company in Cimahi.
+I am a web developer with a strong interest in programming, especially in machine learning. I currently work for a software company in Cimahi.
 <!--
 **gerinsp/gerinsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
