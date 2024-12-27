@@ -4,7 +4,7 @@
 <img src="https://github.com/gerinsp/stats/blob/main/giphy.gif" />
 </p>
 
-I am a web developer with a strong passion for programming, particularly in machine learning. Currently, I work at a software company in Cimahi, where I apply my skills in developing web applications while also exploring machine learning techniques to enhance my projects.
+I am a Web Developer with a strong passion for programming, particularly in Machine Learning. Currently, I work at a software company in Cimahi, where I focus on developing web applications and also explore machine learning techniques, such as time series forecasting and face recognition, to integrate into my projects. I am actively learning and applying AI/ML concepts to build innovative solutions and transition into the AI field.
 <!--
 **gerinsp/gerinsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
