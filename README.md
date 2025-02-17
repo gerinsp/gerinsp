@@ -21,15 +21,21 @@ Here are some ideas to get you started:
 -->
 ### Tech Stack: 
 <p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/Framework-Laravel-blue?&logo=laravel&logoColor=red" />
+    <img src="https://img.shields.io/badge/OS-macOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Language-PHP-blue?&logo=php" />
+    <img src="https://img.shields.io/badge/Language-Python-blue?&logo=python" />
+    <img src="https://img.shields.io/badge/Language-JavaScript-blue?&logo=javascript" />
     <img src="https://img.shields.io/badge/Text%20Editor-PhpStorm-black?&logo=phpstorm&logoColor=black" />
+    <img src="https://img.shields.io/badge/Text%20Editor-PyCharm-black?&logo=pycharm&logoColor=black" />
+    <img src="https://img.shields.io/badge/Framework-Laravel-blue?&logo=laravel&logoColor=red" />
     <img src="https://img.shields.io/badge/DBMS-MySQL|Redis-blue?&logo=mysql" />
     <img src="https://img.shields.io/badge/Version%20Control-Git-blue?&logo=git" />
 </p>
 
+
 ### My Stats:
 <p>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=gerinsp&show_icons=true&theme=tokyonight&repo=stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerinsp&layout=compact&theme=tokyonight" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=gerinsp&show_icons=true&theme=dracula&count_private=true&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerinsp&layout=compact&theme=dracula&langs_count=6" />
 </p>
+
